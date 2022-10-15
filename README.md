@@ -3,7 +3,7 @@
 ## Project: OPP Carbs-cli
 
 ### Author: AbdallahMosa &[Omar](github.com/dee-desu)
-## [Pull Req]()
+## [Pull Req](https://github.com/dee-desu/carbs-cli/pull/1)
 
 ---
 ## Description 
