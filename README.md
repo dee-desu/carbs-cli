@@ -3,8 +3,14 @@
 ## Project: OPP Carbs-cli
 
 ### Author: AbdallahMosa &[Omar](github.com/dee-desu)
-## [Pull Req](https://github.com/AbdallahMosa/carbs-cli/pull/1)
-## [Pull Req 2 ](https://github.com/AbdallahMosa/carbs-cli/pull/2)
+## [Pull Req]()
+
+---
+## Description 
+- this app helps you to find many delicious plates with nutrition facts depending on your range of minimum and maximum carbs consumption.
+---
+
+
 
 #### How to initialize/run your application (where applicable)
 - `python carbs/carbs.py`
